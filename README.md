@@ -13,7 +13,7 @@
  
  4. Added Room database to save the fetch data and use it as live data for persistent purposes.
  
-   _As you can see when you clicked an item you will notice that the color of the text is darken compare to the items that is not yet viewed on the home list._
+   #_As you can see when you clicked an item you will notice that the color of the text is darken compare to the items that is not yet viewed on the home list._
 
 5. Since we are using a straightforward link for our web service. I used RxJava for the service for simpler code and for retry capabilities. Also Personally I found it more appropriate and cleaner. Retrofit will be best if we're gonna parameter to fetch data from the web service.
 
