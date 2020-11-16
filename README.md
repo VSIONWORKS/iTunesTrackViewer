@@ -22,7 +22,7 @@
 7. I used Facebook Shimmer as place holder.
  
 
-## Dependency
+## Dependencies
  * Material Design
  * Model-View-ViewModel
  * RxJava
