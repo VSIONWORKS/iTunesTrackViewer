@@ -13,9 +13,9 @@
  
  4. Added Room database to save the fetch data and use it as live data for persistent purposes.
  
-   ___You will see when you clicked an item you will notice that the color of the text is darken compare to the items that is not yet viewed on the home list.___
+   ___You will noticed when you clicked an item the color of the text is darken compare to the items that is not yet viewed on the home list.___
 
-5. Since we are using a straightforward link for our web service. I used RxJava for the service for simpler code and for retry capabilities. Also Personally I found it more appropriate and cleaner. Retrofit will be best if we're gonna use parameter to fetch data from the web service.
+5. Since we are using a straightforward link for our web service. I used RxJava for the service for simpler code and for retry capabilities. Also I find it more appropriate and cleaner. Retrofit will be best if we're gonna use parameter to fetch data from the web service.
 
 6. Some other Items does not have description so I labeled them as "No description available" but for the others, I display the descrption using html format.
 
